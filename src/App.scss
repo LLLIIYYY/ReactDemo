@@ -1,0 +1,12 @@
+.app{
+  width: 60%;
+  margin: 100px auto;
+  .todoList{
+    .todoItem{
+      margin-top: 5px;
+      background-color: #f00;
+      padding: 10px;
+      border-radius: 5px;
+    }
+  }
+}
